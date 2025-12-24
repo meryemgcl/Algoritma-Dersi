@@ -1,4 +1,4 @@
-                                                                                      Sayısal Loto Uygulaması
+                                                                      Sayısal Loto Uygulaması
 
 Python öğrenme sürecimde, temel konuları pekiştirmek için geliştirdiğim basit bir şans oyunları simülasyonu.
 
